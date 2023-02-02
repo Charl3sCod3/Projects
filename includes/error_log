@@ -1,0 +1,183 @@
+[21-Nov-2022 11:53:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[21-Nov-2022 11:53:17 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[23-Nov-2022 00:12:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/dbcon.php on line 17
+[23-Nov-2022 00:12:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/dbcon.php on line 18
+[23-Nov-2022 00:12:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/dbcon.php on line 18
+[23-Nov-2022 00:12:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/dbcon.php on line 18
+[23-Nov-2022 00:12:56 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/dbcon.php on line 18
+[23-Nov-2022 05:55:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[23-Nov-2022 05:55:44 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[24-Nov-2022 04:19:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/insidedinagat/public_html/includes/queries.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 7
+[24-Nov-2022 04:19:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/insidedinagat/public_html/includes/queries.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 7
+[25-Nov-2022 16:10:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:10:21 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:10:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:10:41 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:19:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:19:40 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:20:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:20:16 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:21:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:21:56 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:22:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:22:12 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:22:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:22:25 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:22:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:22:38 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:24:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:24:23 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:24:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:24:27 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[25-Nov-2022 16:24:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/insidedinagat/public_html/dbcon.php on line 2
+[25-Nov-2022 16:24:51 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, null given in /home/insidedinagat/public_html/dbcon.php:9
+Stack trace:
+#0 /home/insidedinagat/public_html/dbcon.php(9): extract(NULL)
+#1 /home/insidedinagat/public_html/includes/suborder.php(3): include('/home/insidedin...')
+#2 {main}
+  thrown in /home/insidedinagat/public_html/dbcon.php on line 9
+[26-Nov-2022 01:09:05 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/insidedinagat/public_html/includes/queries.php:354
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 354
+[26-Nov-2022 01:11:52 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/insidedinagat/public_html/includes/queries.php:354
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 354
+[26-Nov-2022 01:12:46 Asia/Manila] PHP Warning:  Undefined variable $message in /home/insidedinagat/public_html/includes/queries.php on line 369
+[26-Nov-2022 01:14:49 Asia/Manila] PHP Warning:  Undefined variable $message in /home/insidedinagat/public_html/includes/queries.php on line 369
+[26-Nov-2022 01:15:47 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/insidedinagat/public_html/includes/queries.php:344
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 344
+[26-Nov-2022 01:17:05 Asia/Manila] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/insidedinagat/public_html/includes/queries.php:343
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/queries.php on line 343
+[26-Nov-2022 17:44:33 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[26-Nov-2022 17:44:49 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[26-Nov-2022 17:44:58 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[26-Nov-2022 17:45:04 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[26-Nov-2022 17:45:15 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[26-Nov-2022 17:47:42 Asia/Manila] PHP Warning:  Undefined variable $barangay in /home/insidedinagat/public_html/includes/suborder.php on line 21
+[07-Dec-2022 02:32:02 UTC] PHP Warning:  Undefined variable $username in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:32:02 UTC] PHP Warning:  Undefined variable $password in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:32:02 UTC] PHP Warning:  Undefined variable $con in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 02:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/insidedinagat/public_html/includes/send_otp.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 02:33:09 UTC] PHP Warning:  Undefined variable $username in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:33:09 UTC] PHP Warning:  Undefined variable $password in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:33:09 UTC] PHP Warning:  Undefined variable $con in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 02:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/insidedinagat/public_html/includes/send_otp.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 02:33:27 UTC] PHP Warning:  Undefined variable $username in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:33:27 UTC] PHP Warning:  Undefined variable $password in /home/insidedinagat/public_html/includes/send_otp.php on line 2
+[07-Dec-2022 02:33:27 UTC] PHP Warning:  Undefined variable $con in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 02:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/insidedinagat/public_html/includes/send_otp.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/send_otp.php on line 3
+[07-Dec-2022 05:11:53 UTC] PHP Warning:  include(dbcon.php): Failed to open stream: No such file or directory in /home/insidedinagat/public_html/includes/save_otp.php on line 2
+[07-Dec-2022 05:11:53 UTC] PHP Warning:  include(): Failed opening 'dbcon.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/insidedinagat/public_html/includes/save_otp.php on line 2
+[07-Dec-2022 05:11:53 UTC] PHP Warning:  Undefined variable $username in /home/insidedinagat/public_html/includes/save_otp.php on line 3
+[07-Dec-2022 05:11:53 UTC] PHP Warning:  Undefined variable $password in /home/insidedinagat/public_html/includes/save_otp.php on line 3
+[07-Dec-2022 05:11:53 UTC] PHP Warning:  Undefined variable $con in /home/insidedinagat/public_html/includes/save_otp.php on line 4
+[07-Dec-2022 05:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/insidedinagat/public_html/includes/save_otp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/insidedinagat/public_html/includes/save_otp.php on line 4
+[07-Dec-2022 06:57:32 UTC] PHP Warning:  Undefined variable $otpverification in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 06:57:32 UTC] PHP Warning:  Undefined variable $otpverification in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 07:00:12 UTC] PHP Warning:  Undefined variable $who in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 07:05:22 UTC] PHP Warning:  Undefined variable $who in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 07:07:29 UTC] PHP Warning:  Undefined variable $who in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 07:10:54 UTC] PHP Warning:  Undefined variable $who in /home/insidedinagat/public_html/includes/queries.php on line 35
+[07-Dec-2022 18:59:38 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:40 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:44 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:51 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:53 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:54 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:56 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:57 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:58 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 18:59:59 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:00 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:03 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:04 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:11 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:13 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[07-Dec-2022 19:00:14 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[08-Dec-2022 12:40:26 Asia/Manila] PHP Warning:  Undefined array key "contactnumber" in /home/insidedinagat/public_html/includes/send_otp.php on line 34
+[08-Dec-2022 12:42:59 Asia/Manila] PHP Warning:  Undefined variable $row in /home/insidedinagat/public_html/includes/save_otp.php on line 17
+[08-Dec-2022 12:42:59 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/insidedinagat/public_html/includes/save_otp.php on line 17
